@@ -1,0 +1,26 @@
+Sabtu, 9 Mei 2020
++Pembuatan halaman awal media pembelajaran
+
+Sabtu, 16 Mei 2020
+>Khairul Fahmi
+  +Penambahan Scene Insert Name
+  +Penambahan Scene Main Menu
+  +Penambahan Scene Materi
+  +Aktivasi Button Bekal (Materi)
+  +Aktivasi Button Next, Previous, dan Home pada Scene Materi
+  -Coding Input Text pada Scene Input Nama
+  
+>Nadiyatul Husna
+  +Penambahan Frame pada Scene Materi
+  +Materi Nilai Suatu Barang
+  +Materi Harga Penjualan dan Harga Pembelian
+  
+>Shindy Silviyanti
+  +Penambahan Frame pada Scene Materi
+  +Materi Persentase Untung
+  +Materi Persentase Rugi
+  
+>Laelatul Maghfiroh
+  +Penambahan Frame pada Scene Materi
+  +Materi Diskon, Pajak, Bruto, Tara, dan Netto
+  +Materi Bunga Tunggal
